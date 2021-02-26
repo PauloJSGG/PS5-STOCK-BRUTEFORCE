@@ -1,0 +1,17 @@
+{
+  "name": "tst",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nodenv": "^0.1.0",
+    "playwright": "^1.9.1",
+    "twilio": "^3.57.0"
+  }
+}
